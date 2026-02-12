@@ -8,33 +8,6 @@ An all-in-one digital marketplace that connects farmers with buyers for the sale
 
 ---
 
-
-## 📂 Project Structure
-
-e-mandi/
-│
-├── backend/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── server.js
-│
-├── frontend/
-│ ├── components/
-│ ├── pages/
-│ └── App.js
-│
-├── public/
-├── .env
-├── package.json
-└── README.md
-
-yaml
-Copy
-Edit
-
----
-
 ## ✨ Features
 
 ### 👨‍🌾 Farmers
